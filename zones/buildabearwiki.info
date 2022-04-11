@@ -1,8 +1,8 @@
 $TTL 300
-$ORIGIN pastport.org.
+$ORIGIN buildabearwiki.info.
 
 @		SOA ns1.miraheze.org. hostmaster.miraheze.org. (
-		20190924000001	; serial
+		20220405000001	; serial
 		7200		; refresh
 		30M		; retry
 		3D		; expire
